@@ -2,6 +2,11 @@
 
 # My Activities
 [![Daniil Trotsenko profile views](https://u8views.com/api/v1/github/profiles/42993290/views/day-week-month-total-count.svg)](https://u8views.com/github/danik-tro)
+<br/>
+[![LeetCode user danik_tro](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdanik_tro&logo=leetcode&logoColor=yellow)](https://leetcode.com/danik_tro/)
+[![LeetCode user danik_tro](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=&query=solvedPercentage&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdanik_tro)](https://leetcode.com/danik_tro/)
+[![LeetCode user danik_tro](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdanik_tro)](https://leetcode.com/danik_tro/)
+![CodeWars](https://www.codewars.com/users/danik-tro/badges/micro)
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danik-tro&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danik-tro&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danik-tro&theme=nord_dark) |
 | :-: | :-: | :-: |
