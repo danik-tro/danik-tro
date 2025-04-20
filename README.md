@@ -34,3 +34,10 @@
 <image src="https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png" width=60 height=60></image>
 </div>
 
+# CodeCrafters Challenges
+
+<image src="https://backend.codecrafters.io/progress/http-server/e7364ed8-9ed9-4763-8f5c-e0b6f17f4eb8"></image>
+<image src="https://backend.codecrafters.io/progress/redis/0ee18656-ae8b-49b1-b3f3-5c7eedcff1a1"></image>
+
+
+
